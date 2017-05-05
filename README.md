@@ -5,6 +5,6 @@
 学习地址：http://wiki.jikexueyuan.com/project/rabbitmq/
 
 
->scripts-python  python语言实现
+>scripts-python  基于python语言实现
 
->scripts-java  java语言实现
+>scripts-java   基于java语言实现
